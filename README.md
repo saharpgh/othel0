@@ -1,2 +1,2 @@
-# othel0
+# othelo
 play othelo with AI!
